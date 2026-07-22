@@ -1,6 +1,7 @@
 {
-  "pack": {
-    "pack_format": 34,
-    "description": "Golden Dandelion — replaces the dandelion texture"
-  }
+    "pack": {
+        "min_format": 69,
+        "max_format": 69,
+        "description": "Makes the Golden dandelion look like camman18"
+    }
 }
