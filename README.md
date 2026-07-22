@@ -1,6 +1,6 @@
 # Golden Dandelion
 
-A Minecraft data pack that gives the golden dandelion a camman18-inspired appearance.
+A Minecraft resource pack that gives the golden dandelion a camman18-inspired appearance.
 
 ## Description
 
@@ -15,10 +15,10 @@ This pack modifies the textures of the golden dandelion block and item to match 
 ## Installation
 
 1. Download the pack from this repository
-2. Extract the files to your Minecraft data packs folder:
-   - Single Player: `.minecraft/saves/<world-name>/datapacks/`
-   - Server: `world/datapacks/`
-3. Reload the data pack (run `/reload` in-game or restart the server)
+2. Extract the files to your Minecraft resource packs folder:
+   - Single Player: `.minecraft/resourcepacks/`
+   - Server: `server/resourcepacks/`
+3. Activate the resource pack in-game (select it in Video Settings → Resource Packs)
 
 ## Compatibility
 
